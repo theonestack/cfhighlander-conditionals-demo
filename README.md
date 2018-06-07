@@ -1,6 +1,6 @@
 ## Info
 
-Demonstration of conditional components for cfhiglander
+Demonstration of conditional components for [cfhighlander](https://github.com/theonestack/cfhighlander)
 
 ## Usage
 
