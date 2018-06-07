@@ -5,7 +5,7 @@ Demonstration of conditional components for cfhiglander
 ## Usage
 
 ```ruby
-$ git clone git@github.com:toshke/cfhighlander-demo-conditionals
+$ git clone https://github.com/toshke/cfhighlander-conditionals-demo.git && cd cfhighlander-conditionals-demo
 $ gem install cfhighlander --prerelease  
 $ cfhighlander cfcompile --validate outer
 
